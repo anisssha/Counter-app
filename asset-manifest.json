@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/couter-app/static/css/main.38368b24.css",
+    "main.js": "/couter-app/static/js/main.813f1871.js",
+    "index.html": "/couter-app/index.html",
+    "main.38368b24.css.map": "/couter-app/static/css/main.38368b24.css.map",
+    "main.813f1871.js.map": "/couter-app/static/js/main.813f1871.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38368b24.css",
+    "static/js/main.813f1871.js"
+  ]
+}
